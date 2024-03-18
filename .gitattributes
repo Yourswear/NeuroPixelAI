@@ -1,0 +1,6 @@
+MANIFEST.in filter=lfs diff=lfs merge=lfs -text
+NeuroPixelAI filter=lfs diff=lfs merge=lfs -text
+README.md filter=lfs diff=lfs merge=lfs -text
+__init__.py filter=lfs diff=lfs merge=lfs -text
+setup.py filter=lfs diff=lfs merge=lfs -text
+LICENSE filter=lfs diff=lfs merge=lfs -text
