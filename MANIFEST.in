@@ -1,0 +1,8 @@
+recursive-include NeuroPixelAI *.pth *.yaml *ipynb *.pyc *.png *.yml *.txt *.md *.xls *.gif *.h5 *.npy *. *.ico *.json *.ui *.qrc *.py
+recursive-include DeepCAD-RT *.pth *.yaml *ipynb *.pyc *.png *.yml *.txt *.md *.xls *.gif *.h5 *.npy *. *.ico *.json *.ui *.qrc *.py
+recursive-include registration *.pth *.yaml *ipynb *.pyc *.png *.yml *.txt *.md *.xls *.gif *.h5 *.npy *. *.ico *.json *.ui *.qrc *.py
+recursive-include Cascade *.pth *.yaml *ipynb *.pyc *.png *.yml *.txt *.md *.xls *.gif *.h5 *.npy *. *.ico *.json *.ui *.qrc  *.py
+recursive-include cellpose *.pth *.yaml *ipynb *.pyc *.png *.yml *.txt *.md *.xls *.gif *.h5 *.npy *. *.ico *.json *.ui *.qrc *.py
+recursive-include icon *.png *.pyc
+recursive-include Font *.ttc
+include *.py

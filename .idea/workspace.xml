@@ -1,0 +1,755 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="2d94a874-7708-476e-8e38-331ba616491a" name="Default Changelist" comment="" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+<<<<<<< HEAD
+      <file pinned="false" current-in-tab="true">
+=======
+      <file pinned="false" current-in-tab="false">
+>>>>>>> a1bb9f6 (version 0.4.7)
+        <entry file="file://$PROJECT_DIR$/NeuroPixelAI/regismodule.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="208">
+              <caret line="15" column="33" selection-start-line="15" selection-start-column="33" selection-end-line="15" selection-end-column="33" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+<<<<<<< HEAD
+=======
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/NeuroPixelAI/_main_.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="247">
+              <caret line="1679" column="41" lean-forward="true" selection-start-line="1679" selection-start-column="41" selection-end-line="1679" selection-end-column="41" />
+              <folding>
+                <element signature="e#0#51#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+>>>>>>> a1bb9f6 (version 0.4.7)
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://D:/Private-HuJiaHao/for_calcium_data_process/Spike_Reduction/OASIS_HJH/Suite2p_OASIS.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="256">
+              <caret line="18" column="35" selection-start-line="18" selection-start-column="35" selection-end-line="18" selection-end-column="35" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/NeuroPixelAI/segmodule.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="544">
+              <caret line="34" column="43" selection-start-line="34" selection-start-column="43" selection-end-line="34" selection-end-column="43" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/../../New_processes/Cascade/Demo_scripts/Demo_train.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="1216">
+              <caret line="76" column="60" selection-start-line="76" selection-start-column="24" selection-end-line="76" selection-end-column="60" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$USER_HOME$/Desktop/ssm-master/notebooks/rslds-hjh.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="6112">
+              <caret line="387" column="26" selection-start-line="387" selection-start-column="26" selection-end-line="387" selection-end-column="26" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>denoise</find>
+      <find>text</find>
+      <find>reg_imag</find>
+      <find>eigenvalues</find>
+      <find>tim</find>
+      <find>C:</find>
+      <find>label_1</find>
+      <find>segThread(self.feature_image, seg_ops)</find>
+      <find>segThread</find>
+      <find>class</find>
+      <find>shape</find>
+      <find>np.zeros</find>
+      <find>thread_p</find>
+      <find>seg</find>
+      <find>segth</find>
+      <find>x_hat</find>
+      <find>run_bat</find>
+      <find>run_all</find>
+      <find>thread_po</find>
+      <find>colorma</find>
+      <find>icon/</find>
+      <find>label_19</find>
+      <find>seg_partThread</find>
+      <find>flow_threshold</find>
+      <find>checkBox</find>
+      <find>run_extra</find>
+      <find>seg_part</find>
+      <find>self.Thread_post_process</find>
+      <find>Thread_post_process</find>
+      <find>seg_partTh</find>
+    </findStrings>
+    <replaceStrings>
+      <replace>self.current_dir</replace>
+      <replace>'.</replace>
+      <replace>self.properties[i]['coords'</replace>
+      <replace>property_temp</replace>
+      <replace>temp_mask</replace>
+    </replaceStrings>
+  </component>
+<<<<<<< HEAD
+=======
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+>>>>>>> a1bb9f6 (version 0.4.7)
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/NeuroPixelAI.py" />
+        <option value="D:/Anaconda3/envs/neuroai/Lib/site-packages/neuropixelai/_main_.py" />
+        <option value="D:/Anaconda3/envs/neuroai/Lib/site-packages/neuropixelai/GUI/GUI_v4.py" />
+        <option value="$PROJECT_DIR$/icon/__init__.py" />
+        <option value="D:/Anaconda3/envs/neuroai/Lib/site-packages/GUI/GUI_v4.py" />
+        <option value="D:/Anaconda3/envs/neuroai/Lib/site-packages/NeuroPixelAI/GUI.py" />
+        <option value="D:/Anaconda3/envs/neuroai/Lib/site-packages/NeuroPixelAI/denoisemodule.py" />
+        <option value="D:/Anaconda3/envs/neuroai/Lib/site-packages/NeuroPixelAI/regismodule.py" />
+        <option value="D:/Anaconda3/envs/neuroai/Lib/site-packages/NeuroPixelAI/segmodule.py" />
+        <option value="$PROJECT_DIR$/NeuroPixelAI/registration/register.py" />
+        <option value="$PROJECT_DIR$/NeuroPixelAI/cellpose/__init__.py" />
+        <option value="$PROJECT_DIR$/NeuroPixelAI/denoisemodule.py" />
+        <option value="$PROJECT_DIR$/NeuroPixelAI/registration/default_ops.py" />
+        <option value="$PROJECT_DIR$/NeuroPixelAI/cellpose/default_ops.py" />
+        <option value="D:/Anaconda3/envs/neuroai/Lib/site-packages/NeuroPixelAI/__main__.py" />
+        <option value="$PROJECT_DIR$/NeuroPixelAI/test.py" />
+        <option value="$PROJECT_DIR$/NeuroPixelAI/__main__.py" />
+        <option value="$PROJECT_DIR$/NeuroPixelAI/GUI_largefov.py" />
+        <option value="$PROJECT_DIR$/../AItest-0.4.2/NeuroPixelAI/GUI.py" />
+        <option value="$PROJECT_DIR$/NeuroPixelAI/proper_version.py" />
+        <option value="$PROJECT_DIR$/../../New_processes/NeuroPixelAI-0.4.3.py" />
+        <option value="$PROJECT_DIR$/../../New_processes/GUI/GUI_v5.py" />
+        <option value="$PROJECT_DIR$/../../New_processes/NeuroPixelAI(GUI用这个).py" />
+        <option value="$PROJECT_DIR$/../../New_processes/denoisemodule.py" />
+        <option value="$PROJECT_DIR$/../../New_processes/denoisemodule_srdtrans.py" />
+        <option value="$PROJECT_DIR$/../../New_processes/GUIdesign.py" />
+        <option value="$PROJECT_DIR$/NeuroPixelAI/regismodule.py" />
+        <option value="$USER_HOME$/Desktop/ssm-master/notebooks/rslds-hjh.py" />
+        <option value="$USER_HOME$/Desktop/ssm-master/notebooks/plot_result.py" />
+        <option value="$PROJECT_DIR$/NeuroPixelAI/_main_ - run_batches_seg_little.py" />
+        <option value="$PROJECT_DIR$/NeuroPixelAI/segmodule.py" />
+        <option value="$PROJECT_DIR$/NeuroPixelAI/_main_ -load_std_enhanced_noplot.py" />
+        <option value="D:/Private-HuJiaHao/for_calcium_data_process/Spike_Reduction/OASIS_HJH/Suite2p_OASIS.py" />
+        <option value="$PROJECT_DIR$/NeuroPixelAI/GUI.py" />
+        <option value="$PROJECT_DIR$/NeuroPixelAI/_main_.py" />
+        <option value="$PROJECT_DIR$/setup.py" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds">
+    <option name="x" value="58" />
+    <option name="y" value="22" />
+    <option name="width" value="1464" />
+    <option name="height" value="1026" />
+  </component>
+<<<<<<< HEAD
+=======
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+>>>>>>> a1bb9f6 (version 0.4.7)
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+<<<<<<< HEAD
+      <pane id="Scope" />
+=======
+>>>>>>> a1bb9f6 (version 0.4.7)
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="AItest-0.4.7" type="b2602c69:ProjectViewProjectNode" />
+              <item name="AItest-0.4.7" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="AItest-0.4.7" type="b2602c69:ProjectViewProjectNode" />
+              <item name="AItest-0.4.7" type="462c0819:PsiDirectoryNode" />
+              <item name="NeuroPixelAI" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+<<<<<<< HEAD
+=======
+      <pane id="Scope" />
+>>>>>>> a1bb9f6 (version 0.4.7)
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="last_opened_file_path" value="D:/Anaconda3/python.exe" />
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\Lab-Share\Member-HuJiaHao\AItest\AItest-0.4.4\NeuroPixelAI" />
+      <recent name="D:\Lab-Share\Member-HuJiaHao\AItest\NeuroPixelAI" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Python._main_">
+    <configuration name="Suite2p_OASIS" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="AItest" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="D:/Private-HuJiaHao/for_calcium_data_process/Spike_Reduction/OASIS_HJH" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="D:/Private-HuJiaHao/for_calcium_data_process/Spike_Reduction/OASIS_HJH/Suite2p_OASIS.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="_main_ -load_std_enhanced" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="AItest" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/NeuroPixelAI" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/NeuroPixelAI/_main_ -load_std_enhanced.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="_main_ -load_std_enhanced_noplot" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="AItest" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/NeuroPixelAI" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/NeuroPixelAI/_main_ -load_std_enhanced_noplot.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="_main_" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="AItest" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/NeuroPixelAI" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/NeuroPixelAI/_main_.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="segmodule" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="AItest" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/NeuroPixelAI" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/NeuroPixelAI/segmodule.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python._main_" />
+        <item itemvalue="Python.Suite2p_OASIS" />
+        <item itemvalue="Python._main_ -load_std_enhanced_noplot" />
+        <item itemvalue="Python.segmodule" />
+        <item itemvalue="Python._main_ -load_std_enhanced" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="2d94a874-7708-476e-8e38-331ba616491a" name="Default Changelist" comment="" />
+      <created>1710495953408</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1710495953408</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="TodoView">
+    <todo-panel id="selected-file">
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+  </component>
+  <component name="ToolWindowManager">
+<<<<<<< HEAD
+    <frame x="58" y="22" width="1464" height="1026" extended-state="0" />
+=======
+    <frame x="58" y="22" width="1464" height="1026" extended-state="1" />
+    <editor active="true" />
+>>>>>>> a1bb9f6 (version 0.4.7)
+    <layout>
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.24824685" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Favorites" order="2" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.32922733" />
+<<<<<<< HEAD
+      <window_info anchor="bottom" id="Run" order="2" weight="0.2743561" />
+=======
+      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.2735426" />
+>>>>>>> a1bb9f6 (version 0.4.7)
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.3982103" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" weight="0.3290735" />
+      <window_info anchor="bottom" id="Version Control" order="7" />
+      <window_info anchor="bottom" id="Terminal" order="8" weight="0.32858837" />
+      <window_info anchor="bottom" id="Event Log" order="9" side_tool="true" />
+      <window_info anchor="bottom" id="Python Console" order="10" weight="0.32662192" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+    </layout>
+    <layout-to-restore>
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.24982357" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Favorites" order="2" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.32977462" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.27404922" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.39869988" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" weight="0.3290735" />
+      <window_info anchor="bottom" id="Version Control" order="7" />
+      <window_info anchor="bottom" id="Terminal" order="8" weight="0.32858837" />
+      <window_info anchor="bottom" id="Event Log" order="9" side_tool="true" />
+      <window_info anchor="bottom" id="Python Console" order="10" weight="0.32713348" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+    </layout-to-restore>
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/NeuroPixelAI/cellpose/__init__.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="19" selection-start-column="19" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/NeuroPixelAI/registration/io.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/NeuroPixelAI/__init__.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://D:/Anaconda3/envs/neuroai/Lib/site-packages/NeuroPixelAI/icon/icon_rc.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$USER_HOME$/AppData/Local/Temp/Rar$DIa22812.9864/setup.py" />
+    <entry file="file://$PROJECT_DIR$/NeuroPixelAI/cellpose/__main__.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="96">
+          <caret line="6" column="4" lean-forward="true" selection-start-line="6" selection-start-column="4" selection-end-line="6" selection-end-column="4" />
+          <folding>
+            <element signature="e#0#45#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/__init__.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$USER_HOME$/Desktop/neuroai-0.0.0/NeuroPixelAI/__main__.py" />
+    <entry file="file://$USER_HOME$/Desktop/neuroai-0.0.0/__init__.py" />
+    <entry file="file://D:/Anaconda3/envs/neuroai/Lib/site-packages/NeuroPixelAI/denoisemodule.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="240">
+          <caret line="15" column="16" selection-start-line="15" selection-start-column="4" selection-end-line="15" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://D:/Anaconda3/envs/neuroai/Lib/site-packages/NeuroPixelAI/denoisemodule_srdtrans.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/NeuroPixelAI/cellpose/default_ops.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="448">
+          <caret line="28" column="5" selection-end-line="28" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/NeuroPixelAI/test.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="213">
+          <caret line="854" column="63" selection-start-line="854" selection-start-column="63" selection-end-line="854" selection-end-column="63" />
+          <folding>
+            <element signature="e#0#51#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../New_processes/NeuroPixelAI(GUI用这个).py" />
+    <entry file="file://D:/Anaconda3/envs/neuroai/Lib/site-packages/_distutils_hack/__init__.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="180">
+          <caret line="31" selection-start-line="31" selection-end-line="31" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://D:/Anaconda3/envs/neuroai/Lib/code.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="180">
+          <caret line="89" selection-start-line="89" selection-end-line="89" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://D:/Anaconda3/envs/neuroai/Lib/site-packages/NeuroPixelAI/GUI.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="252">
+          <caret line="1963" column="49" lean-forward="true" selection-start-line="1963" selection-start-column="49" selection-end-line="1963" selection-end-column="49" />
+          <folding>
+            <element signature="e#289#331#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/NeuroPixelAI/registration/default_ops.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="512">
+          <caret line="32" column="29" selection-end-line="77" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/NeuroPixelAI/denoisemodule.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="336">
+          <caret line="21" column="11" selection-start-line="21" selection-start-column="11" selection-end-line="21" selection-end-column="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://D:/Anaconda3/envs/neuroai/Lib/site-packages/NeuroPixelAI/__main__.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="256">
+          <caret line="16" column="51" lean-forward="true" selection-start-line="16" selection-start-column="51" selection-end-line="16" selection-end-column="51" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/NeuroPixelAI/GUI_largefov.py" />
+    <entry file="file://$PROJECT_DIR$/../AItest-0.4.2/NeuroPixelAI/GUI.py" />
+    <entry file="file://$PROJECT_DIR$/NeuroPixelAI/__main__.py" />
+    <entry file="file://$PROJECT_DIR$/NeuroPixelAI/proper_version.py" />
+    <entry file="file://$PROJECT_DIR$/../../New_processes/NeuroPixelAI(GUI用这个).py" />
+    <entry file="file://$PROJECT_DIR$/../../New_processes/GUIdesign.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="224">
+          <caret line="14" column="31" selection-start-line="14" selection-start-column="31" selection-end-line="14" selection-end-column="31" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../../New_processes/NeuroPixelAI-0.4.3.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="384">
+          <caret line="93" lean-forward="true" selection-start-line="93" selection-end-line="93" />
+          <folding>
+            <element signature="e#0#51#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../../New_processes/denoisemodule_srdtrans.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="480">
+          <caret line="30" column="5" selection-start-line="30" selection-start-column="5" selection-end-line="30" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../../New_processes/denoisemodule.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="400">
+          <caret line="25" column="49" selection-start-line="25" selection-start-column="49" selection-end-line="25" selection-end-column="49" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../../New_processes/GUI/GUI_v5.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="144">
+          <caret line="9" column="41" selection-start-line="9" selection-start-column="41" selection-end-line="9" selection-end-column="41" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../../New_processes/GUI/GUI_v4.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="160">
+          <caret line="10" selection-start-line="10" selection-end-line="10" />
+          <folding>
+            <element signature="e#289#331#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/NeuroPixelAI/denoisemodule_srdtrans.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$USER_HOME$/Documents/WeChat Files/wxid_9gmw5koj7uso22/FileStorage/File/2025-02/rSLDS.ipynb">
+      <provider selected="true" editor-type-id="ipnb-editor">
+        <state>
+          <selected id="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/Desktop/ssm-master/notebooks/plot_result.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="272">
+          <caret line="116" selection-start-line="116" selection-end-line="116" />
+          <folding>
+            <element signature="e#0#9#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/NeuroPixelAI/_main_ - run_batches_seg.py" />
+    <entry file="file://$PROJECT_DIR$/NeuroPixelAI/Cascade/Demo_scripts/Demo_train.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-240">
+          <caret line="15" column="82" selection-start-line="15" selection-start-column="82" selection-end-line="15" selection-end-column="82" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/Desktop/_sspumv.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-2112" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/NeuroPixelAI/_main_ -load_std_enhanced.py" />
+    <entry file="file://$PROJECT_DIR$/NeuroPixelAI/_main_ -load_std_enhanced_noplot.py" />
+    <entry file="file://$PROJECT_DIR$/NeuroPixelAI/_main_ - run_batches_seg_little.py" />
+<<<<<<< HEAD
+    <entry file="file://D:/Private-HuJiaHao/for_calcium_data_process/Spike_Reduction/OASIS_HJH/Suite2p_OASIS.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="256">
+          <caret line="18" column="35" selection-start-line="18" selection-start-column="35" selection-end-line="18" selection-end-column="35" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/NeuroPixelAI/segmodule.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="544">
+          <caret line="34" column="43" selection-start-line="34" selection-start-column="43" selection-end-line="34" selection-end-column="43" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../../New_processes/Cascade/Demo_scripts/Demo_train.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1216">
+          <caret line="76" column="60" selection-start-line="76" selection-start-column="24" selection-end-line="76" selection-end-column="60" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/Desktop/ssm-master/notebooks/rslds-hjh.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="6112">
+          <caret line="387" column="26" selection-start-line="387" selection-start-column="26" selection-end-line="387" selection-end-column="26" />
+        </state>
+      </provider>
+    </entry>
+=======
+>>>>>>> a1bb9f6 (version 0.4.7)
+    <entry file="file://$PROJECT_DIR$/../AItest-0.4.4/NeuroPixelAI/GUI.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="160">
+          <caret line="10" lean-forward="true" selection-start-line="10" selection-end-line="10" />
+          <folding>
+            <element signature="e#286#328#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/NeuroPixelAI/GUI.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="288">
+          <caret line="18" column="14" selection-start-line="18" selection-start-column="14" selection-end-line="18" selection-end-column="14" />
+          <folding>
+            <element signature="e#286#328#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../AItest-0.4.4/NeuroPixelAI/_main_ - basecor_loadraw - 副本.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-29242">
+          <caret line="12" column="53" lean-forward="true" selection-start-line="12" selection-start-column="53" selection-end-line="12" selection-end-column="53" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../AItest-0.4.4/NeuroPixelAI/_main_ - basecor - 副本.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-1104">
+          <caret line="18" column="35" lean-forward="true" selection-start-line="18" selection-start-column="35" selection-end-line="18" selection-end-column="35" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/setup.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="446">
+          <caret line="38" column="20" lean-forward="true" selection-start-line="38" selection-start-column="20" selection-end-line="38" selection-end-column="20" />
+          <folding>
+            <element signature="e#0#17#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+<<<<<<< HEAD
+    <entry file="file://$PROJECT_DIR$/NeuroPixelAI/_main_.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="167">
+          <caret line="1674" column="27" selection-start-line="1674" selection-start-column="27" selection-end-line="1674" selection-end-column="27" />
+          <folding>
+            <element signature="e#0#51#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+=======
+>>>>>>> a1bb9f6 (version 0.4.7)
+    <entry file="file://$PROJECT_DIR$/NeuroPixelAI/regismodule.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="208">
+          <caret line="15" column="33" selection-start-line="15" selection-start-column="33" selection-end-line="15" selection-end-column="33" />
+        </state>
+      </provider>
+    </entry>
+<<<<<<< HEAD
+=======
+    <entry file="file://D:/Private-HuJiaHao/for_calcium_data_process/Spike_Reduction/OASIS_HJH/Suite2p_OASIS.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="256">
+          <caret line="18" column="35" selection-start-line="18" selection-start-column="35" selection-end-line="18" selection-end-column="35" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/NeuroPixelAI/segmodule.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="544">
+          <caret line="34" column="43" selection-start-line="34" selection-start-column="43" selection-end-line="34" selection-end-column="43" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../../New_processes/Cascade/Demo_scripts/Demo_train.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1216">
+          <caret line="76" column="60" selection-start-line="76" selection-start-column="24" selection-end-line="76" selection-end-column="60" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/Desktop/ssm-master/notebooks/rslds-hjh.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="6112">
+          <caret line="387" column="26" selection-start-line="387" selection-start-column="26" selection-end-line="387" selection-end-column="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/NeuroPixelAI/_main_.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="247">
+          <caret line="1679" column="41" lean-forward="true" selection-start-line="1679" selection-start-column="41" selection-end-line="1679" selection-end-column="41" />
+          <folding>
+            <element signature="e#0#51#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+>>>>>>> a1bb9f6 (version 0.4.7)
+  </component>
+</project>
