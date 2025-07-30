@@ -27,7 +27,7 @@ Notably, to avoid potential errors caused by hardware incompatibility, it is str
 
 ## Examples
 
-An example dataset is provided [here](). It's a single-plane, single-channel recording.
+An example dataset is provided [here](https://doi.org/10.5281/zenodo.16595851). It's a single-plane, single-channel recording.
 
 ## Getting started
 
@@ -41,7 +41,7 @@ After completing the installation steps, follow these instructions to launch Neu
     ```
     python -m NeuroPixelAI
     ```
-A standard calcium imaging data processing workflow consists of five stages: **motion correction**, **image denoising**, **cell segmentation**, **signal extraction**, and **spike inference**. For a basic usage example, refer to [Supplementary Viedo 3]([(https://doi.org/10.5281/zenodo.16595851)]).
+A standard calcium imaging data processing workflow consists of five stages: **motion correction**, **image denoising**, **cell segmentation**, **signal extraction**, and **spike inference**. For a basic usage example, refer to [Supplementary Viedo 3](https://doi.org/10.5281/zenodo.16595851)]](https://www.researchsquare.com/article/rs-7024540/v1).
 
 ### Tab 1: Data Loading, Motion Correction & Denoising
 1.  **Load Data:** Click `Load Image` in the bottom-left corner to select your data file. The raw image will appear in the left image panel.
